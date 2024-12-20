@@ -1,6 +1,6 @@
 # Neural Networks: Simulating a perceptron class
 
-In this project, we implement a **Perceptron** model — one of the simplest types of artificial neural networks — to solve a basic binary classification task. The perceptron, introduced by Frank Rosenblatt in 1958, is a foundational concept in machine learning that demonstrates how a model can learn to classify data points using a linear decision boundary.
+In this project, a **Perceptron** model is implemented — one of the simplest types of artificial neural networks — to solve a basic binary classification task. The perceptron, introduced by Frank Rosenblatt in 1958, is a foundational concept in machine learning that demonstrates how a model can learn to classify data points using a linear decision boundary.
 
 ## Project Overview
 
@@ -14,4 +14,4 @@ The `Perceptron` class is implemented to:
 - **Train** the perceptron using a basic weight update rule.
 
 ### 2. Training Data
-We use a predefined dataset called `small_training_set`. The dataset consists of 2D input points and their corresponding binary target values (`1` or `-1`):
+A predefined dataset called `small_training_set` has been used. The dataset consists of 2D input points and their corresponding binary target values (`1` or `-1`):
